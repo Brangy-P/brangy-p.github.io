@@ -64,7 +64,7 @@ p {
   display: flex;
 }
 .btn {
-  text-align: center;
+  text-align: center !important;
 }
 .carousel-inner {
   width: 100%;
