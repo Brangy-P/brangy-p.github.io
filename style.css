@@ -63,9 +63,6 @@ p {
 .section {
   display: flex;
 }
-.btn {
-  text-align: center !important;
-}
 .carousel-inner {
   width: 100%;
 }
