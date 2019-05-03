@@ -13,9 +13,9 @@ h4 {
   margin-top: 20px;
   margin-bottom: 5px;
 }
-p {
+p, h5, {
   line-height: 1.5em;
-  font-size: 1.2em;
+  font-size: 1.6em;
   margin-top: 0;
   margin-bottom: 1.2em;
 }
@@ -104,5 +104,5 @@ p {
   font-size: 1.4em;
 }
 #mc_embed_signup_scroll {
-  text-align: center;
+  text-align: center !important;
 }
