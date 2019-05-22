@@ -15,13 +15,13 @@ h4 {
 }
 h5 {
   line-height: 1.5em;
-  font-size: 2em;
+  font-size: 1.5em;
   margin-top: 1.2em;
   margin-bottom: 1.2em;
 }
 p {
   line-height: 1.5em;
-  font-size: 1.6em;
+  font-size: 1.4em;
 }
 .MainContainer {
   perspective: 1px;
@@ -35,16 +35,17 @@ p {
   padding-bottom: 8em;
   background-color: transparent;
   text-align: center;
+  line-height: 70px;
   color: white;
 }
 .display-1, .title, .name {
   font-family: 'Pacifico', cursive;
 }
 .display-1 {
-  font-size: 10em;
+  font-size: 8em;
 }
 .display-5 {
-  font-size: 2.6em;
+  font-size: 2em;
 }
 .DivOverlay {
   background: rgba(3, 24, 44, 0.5);
@@ -53,7 +54,7 @@ p {
 }
 .ParallaxContainer {
   display: flex;
-  margin: 0px;
+  margin: 0;
   flex: 1 0 auto;
   position: relative;
   height: 100vh;
@@ -100,7 +101,7 @@ p {
   background-image: linear-gradient(to right, rgb(230, 135, 59), rgb(143, 174, 187));
   -webkit-background-clip: text;
   color: transparent;
-  font-size: 5rem;
+  font-size: 4rem;
   font-weight: bold;
 }
 .img-raised {
@@ -108,7 +109,7 @@ p {
 }
 .name {
   color: rgb(248, 149, 78);
-  font-size: 2.8em;
+  font-size: 2.6em;
   line-height: 1.2em;
 }
 .category {
