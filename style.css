@@ -55,6 +55,7 @@ p {
 .ParallaxContainer {
   display: flex;
   margin: 0;
+  padding: 0;
   flex: 1 0 auto;
   position: relative;
   height: 100vh;
